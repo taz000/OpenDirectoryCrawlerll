@@ -1,6 +1,5 @@
 # OpenDirectoryCrawler
 **OpenList** is an advanced, intelligent directory listing crawler 
-Credits : TAZ
 
 ## ⚡ Key Features
 
@@ -315,26 +314,6 @@ python3 openlist.py https://target.com/ --delay 3.0 -w 2
 python3 openlist.py https://target.com/ --dry-run --timeout 10
 ```
 
-## 🤝 Contributing
-
-We welcome contributions to improve OpenList! Here's how you can help:
-
-### 🐛 **Bug Reports**
-- Use GitHub Issues to report bugs
-- Include target URL (if public), command used, and error output
-- Specify your Python version and OS
-
-### ✨ **Feature Requests**
-- Suggest new server types to support
-- Request additional filtering options
-- Propose performance improvements
-
-### 🔧 **Pull Requests**
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit changes: `git commit -am 'Add feature'`
-4. Push to branch: `git push origin feature-name`  
-5. Create Pull Request
 
 ### 📋 **Development Setup**
 ```bash
