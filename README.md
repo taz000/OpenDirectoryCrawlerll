@@ -1,4 +1,4 @@
-# OpenDirectoryCrawlerll
+# OpenDirectoryCrawler
 **OpenList** is an advanced, intelligent directory listing crawler 
 Credits : TAZ
 
